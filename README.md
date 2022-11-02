@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Lars Øvergård
+
+- 🌱 I’m currently learning robotics.
+- 💬 Ask me about my projects.😊
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://isocpp.org/home/" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a> 
+<a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS" width="80" height="40"/> </a>
+<a href="https://www.zephyrproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.zephyrproject.org/wp-content/uploads/sites/38/2021/11/zephyr_logo_r_color_negative_big.svg" alt="zephyr" width="40" height="40"/> </a>
+</p>
 
 <!--
 **ubergard/ubergard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
